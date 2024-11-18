@@ -1,3 +1,5 @@
+//Djikstra's Algorithm for Network Delay Time
+
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
         HashMap<Integer, List<int[]>> hm = new HashMap<>();
