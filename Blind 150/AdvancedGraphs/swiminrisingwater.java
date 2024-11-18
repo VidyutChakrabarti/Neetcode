@@ -1,3 +1,5 @@
+//binary search + DFS
+
 public class Solution {
     public int swimInWater(int[][] grid) {
         int n = grid.length;
