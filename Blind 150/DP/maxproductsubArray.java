@@ -1,3 +1,5 @@
+//kadane's algorithm
+
 class Solution {
     public int maxProduct(int[] nums) {
         int res = nums[0];
