@@ -1,3 +1,5 @@
+//freq count max heap solution
+
 public class Solution {
     public String reorganizeString(String s) {
         int[] freq = new int[26];
