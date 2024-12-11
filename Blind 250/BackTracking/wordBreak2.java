@@ -15,7 +15,6 @@ public class Solution {
             res.add(String.join(" ", cur));
             return;
         }
-
         for (int j = i; j < s.length(); j++) {
             String w = s.substring(i, j + 1);
             if (wordSet.contains(w)) {
